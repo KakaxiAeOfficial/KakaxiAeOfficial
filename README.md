@@ -39,3 +39,5 @@ Glad to see you here ❤️
   <img src="https://vercel.app" alt="GitHub Stats" height="180" />
   <img src="https://herokuapp.com" alt="GitHub Streak" height="180" />
 </p>
+
+[![Build Android APK](https://github.com/KakaxiAeOfficial/opendroid-webos/actions/workflows/build.yml/badge.svg)](https://github.com/KakaxiAeOfficial/opendroid-webos/actions/workflows/build.yml)
